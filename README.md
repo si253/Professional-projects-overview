@@ -14,7 +14,8 @@ An overview of professional projects I have worked on as a GRC consultant.
 - **Versions**: 2023, 2024, 2025
 - **Description**: CSP Swift Assessment
 - **Status**: Completed
-- **Client Sector**: Banking
+- **Sector**: Banking
+- **Clients**: 15
 - **Role**: GRC Consultant, Project Manager
 
 ---
